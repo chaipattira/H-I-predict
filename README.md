@@ -1,5 +1,5 @@
 
-# Leveraging Machine Learning for Predicting Galaxy HI Content
+# Towards Efficient Prediction of Neutral Hydrogen (HI) in Galaxies
 
 This project aims to develop a predictive model for the neutral hydrogen (HI) content of galaxies, leveraging machine learning techniques to approximate HI content more efficiently using commonly available galactic data, such as optical and morphological features. Direct HI measurement is time-intensive and limited to specific surveys; therefore, this model provides a scalable alternative for larger galaxy catalogs.
 
