@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```plaintext
 .
-├── input/                   # Dataset files (e.g., xGASS data)
+├── input/                   # Dataset files
 ├── figures/                # Figures for EDA and results
 ├── Report.tex              # Main LaTeX report file
 ├── README.md               # Project documentation
@@ -67,3 +67,4 @@ The final blended model outperforms individual models, capturing complex relatio
 ## Acknowledgments
 
 This project was completed as part of a 12-hour hackathon at Columbia University. Special thanks to Blueshift and the organizers!
+Due to the limited time, there will of course be some errors or areas for improvement.
