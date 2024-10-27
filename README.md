@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ├── Report.tex              # Main LaTeX report file
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
+└── main.ipynb               # Code files for data analysis and modeling
 ```
 
 ## Project Overview
